@@ -46,7 +46,7 @@ def process(n, runs, n_words, np1, np2, interval):
 
         while p < n:
             p = p + interval
-            n_pali = p * n_pali_factor
+            n_pali = int(p * n_pali_factor)
 
             # getting input using seed method
             palis = seed(p, n_pali, n_words)
