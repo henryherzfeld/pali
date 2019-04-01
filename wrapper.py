@@ -14,30 +14,28 @@ algorithms = [
         # 'ma'
 ]
 
-def process_run(input):
-
+def process_run(palis):
     # declaration
-    time_array = np.zeros((len(algorithms),len(input)), dtype=float)
-    result_array = np.zeros((len(algorithms),len(input)), dtype=object)
+    time_array = np.zeros((len(algorithms), len(palis)), dtype=float)
+    result_array = np.zeros((len(algorithms), len(palis)), dtype=object)
 
-    for input_id, input in enumerate(input):
+    for pali_id, pali in enumerate(palis):
         for alg_id, algorithm in enumerate(algorithms):
-            a = "alg." + algorithm + "_pali.pali(" + str(input) + ")"
+            a = "alg." + algorithm + "_pali.pali(" + str(pali) + ")"
             start = time.clock()
             result = eval(a)
             end = time.clock()
 
             # assignment
-            time_array[alg_id][input_id] = end-start
-            result_array[alg_id][input_id] = result
+            time_array[alg_id][pali_id] = end-start
+            result_array[alg_id][pali_id] = result
 
     return time_array, result_array
 
 
 def process(n, runs, n_words, np1, np2, interval):
 
-
-    metrics = np.zeros((runs,n//interval,4))
+    metrics = np.zeros((runs, n//interval, 2))
 
     # create the factor for each run here
     n_pali_factors = np.linspace(np1, np2, runs)
@@ -51,7 +49,7 @@ def process(n, runs, n_words, np1, np2, interval):
             n_pali = p * n_pali_factor
 
             # getting input using seed method
-            input = seed(p, n_pali, n_words)
+            palis = seed(p, n_pali, n_words)
 
             # initializing run
-            print(process_run(input))
+            time_array, pali_array = process_run(palis)
