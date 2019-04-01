@@ -100444,3 +100444,1255 @@ INFO:bf_pali:max pali found:
 INFO:bf_pali:['J', 'U', 'N', 'N', 'U', 'J']
 INFO:bf_pali:max pali found:
 INFO:bf_pali:['I', 'F', 'H', 'T', 'H', 'F', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'G', 'V', 'G', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'A', 'X', 'A', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'R', 'R', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'Z', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'K', 'H', 'K', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'B', 'G', 'B', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'U', 'X', 'U', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'X', 'W', 'B', 'W', 'X', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'F', 'F', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'B', 'B', 'B', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'X', 'R', 'X', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'R', 'R', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'N', 'N', 'N', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'C', 'H', 'C', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'V', 'Y', 'V', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'R', 'K', 'R', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'T', 'T', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'D', 'O', 'D', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'M', 'J', 'J', 'M', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'X', 'X', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'D', 'N', 'D', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'O', 'J', 'O', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'S', 'I', 'S', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'N', 'M', 'N', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'J', 'J', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'X', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'X', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'Z', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'G', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'A', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'C', 'L', 'C', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'N', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'I', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'N', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'D', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'S', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'R', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'C', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'Y', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'F', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'U', 'U', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'D', 'Q', 'D', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'A', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'J', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'G', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'K', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'L', 'G', 'L', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'A', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'N', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'T', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'D', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'F', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'X', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'L', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'X', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'Y', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'E', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'F', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'W', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'Y', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'S', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'B', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'A', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'X', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'G', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'F', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'G', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'H', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'E', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'D', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'Y', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'V', 'V', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'O', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'B', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'N', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'J', 'R', 'J', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'B', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'B', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'Y', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'E', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'M', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'I', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'L', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'R', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'Z', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'N', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'Q', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'S', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'G', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'E', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'T', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'B', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'S', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'K', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'C', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'D', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'W', 'W', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'C', 'C', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'T', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Q', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'R', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'V', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'O', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'Z', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'P', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'C', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'T', 'T', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'X', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'N', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'D', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'H', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'Y', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'V', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'B', 'B', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'P', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'D', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'Y', 'S', 'Y', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'H', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'G', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'V', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'W', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'U', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'R', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Y', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'L', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'R', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'H', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'V', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'M', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'P', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'J', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'L', 'L', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'V', 'V', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'L', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'Q', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'B', 'B', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'S', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'D', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'A', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'X', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'Z', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'R', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'P', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'J', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'E', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'G', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Q', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'P', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'B', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'U', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'L', 'I', 'L', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'A', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'X', 'X', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'N', 'N', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'Y', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'T', 'T', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Q', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'T', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'Q', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'K', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'U', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'T', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'K', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'O', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'M', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'L', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'Y', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'F', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'J', 'Q', 'J', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'R', 'R', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'L', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'O', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'H', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'W', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'U', 'U', 'U', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'I', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'B', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'Z', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'A', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'N', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'C', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'T', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'A', 'A', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'L', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'H', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'B', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'U', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'K', 'K', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'B', 'E', 'B', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'D', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'J', 'J', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'F', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'O', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'K', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'O', 'J', 'O', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'V', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'F', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'M', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'K', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'Z', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'A', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'G', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'H', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'W', 'X', 'W', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'K', 'K', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'V', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'B', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'N', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'X', 'X', 'X', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'B', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'I', 'F', 'I', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'T', 'T', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'L', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'A', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'Z', 'F', 'Z', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'E', 'C', 'E', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'K', 'V', 'K', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'L', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'T', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'L', 'L', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'V', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'F', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'H', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'E', 'Q', 'E', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'U', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'R', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'D', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'Y', 'Y', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'A', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'K', 'Y', 'K', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'O', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'N', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'U', 'U', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'N', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'X', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'O', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'B', 'B', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'J', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'F', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'B', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'O', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'Q', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'U', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'E', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'E', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'U', 'J', 'U', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'J', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'E', 'J', 'B', 'J', 'E', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'K', 'K', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'Z', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'N', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'R', 'W', 'R', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'V', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'T', 'Z', 'T', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'W', 'W', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'R', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'P', 'P', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'L', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'D', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'E', 'N', 'E', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'X', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'B', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'L', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'M', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'F', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'R', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'L', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'T', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'B', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'K', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'P', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'L', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'B', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'R', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'T', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Z', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'W', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'V', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'O', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'Q', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'B', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'X', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'U', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'H', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'U', 'T', 'U', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'B', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Y', 'J', 'Y', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G', 'G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'P', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'Q', 'Q', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'Z', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'L', 'L', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'T', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'T', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'Y', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'X', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'N', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'J', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'V', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'G', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'W', 'S', 'W', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'B', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'B', 'B', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'M', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'F', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'C', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'F', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'S', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'P', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'P', 'D', 'P', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'O', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'X', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'W', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'R', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'M', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'V', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'B', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'H', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'W', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'S', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'R', 'J', 'R', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'I', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'G', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'A', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'R', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'A', 'A', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'V', 'W', 'V', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'Z', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'Z', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'V', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'B', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'K', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'K', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'K', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'E', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'I', 'I', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'U', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Y', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'S', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'D', 'D', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'P', 'P', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'S', 'S', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'Z', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'B', 'B', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'B', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'Q', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'U', 'U', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'N', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'C', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'B', 'B', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'B', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'L', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'Q', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'C', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'Z', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'L', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'H', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'M', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'F', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'K', 'D', 'K', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'F', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'A', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'L', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'R', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'B', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'P', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'A', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'M', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'D', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'G', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'B', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'A', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'S', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'W', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'E', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'E', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'T', 'T', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'T', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'V', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'E', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Q', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'N', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'F', 'S', 'F', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'O', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'F', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'N', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'Q', 'Q', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'D', 'D', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'H', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'N', 'N', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'B', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'U', 'U', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'G', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'G', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'L', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'H', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'Q', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'K', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'J', 'J', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'M', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'R', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'H', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'J', 'J', 'J', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'W', 'Q', 'W', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'Z', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'X', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'R', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'D', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'C', 'N', 'C', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'O', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'K', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'K', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'A', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'C', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'A', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'A', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'F', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'T', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'D', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'Q', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'G', 'F', 'F', 'G', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'P', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'V', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'W', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'L', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'Q', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'Q', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'J', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'Y', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'X', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'R', 'G', 'R', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'A', 'A', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'Z', 'Z', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'R', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'S', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'A', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'F', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'H', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'V', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'I', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'J', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'W', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['N', 'R', 'N']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'E', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'B', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'N', 'N', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'W', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'I', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'C', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'G', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'S', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'V', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'O', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'C', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D', 'J', 'D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'W', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'Y', 'Y', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'I', 'I', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'R', 'I', 'R', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'K', 'K', 'K', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'S', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'R', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'U', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'S', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Y', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['H', 'H', 'H']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'I', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'H', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Q', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'R', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'K', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'K', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'K', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'L', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'H', 'H', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'N', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'F', 'K', 'F', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'O', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'B', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'G', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'K', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'G', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'Y', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'E', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'Z', 'R', 'Z', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'F', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'C', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'L', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'R', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'F', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'W', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'R', 'H', 'R', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'Z', 'N', 'Z', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'I', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'A', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'J', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'C', 'C', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['C', 'Q', 'C']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'S', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'V', 'K', 'V', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'A', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'K', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'F', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'T', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['K', 'W', 'K']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'T', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'B', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'Q', 'Q', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'B', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'N', 'N', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'R', 'M', 'R', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'J', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'H', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['G', 'B', 'G']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['B', 'W', 'B']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'Z', 'Z', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'K', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'M', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['X', 'Z', 'X']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'N', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'T', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['J', 'J']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['S', 'I', 'S']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['R', 'K', 'R']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'E', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'S', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'O', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['D', 'N', 'D']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'G', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'G', 'Z', 'G', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'P', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'D', 'D', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['A', 'B', 'A']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'I', 'I', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'S', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['F', 'F']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'G', 'E']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'Q', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'U', 'U', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['P', 'P']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'O', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Z', 'Q', 'Z']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['L', 'W', 'W', 'L']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['I', 'I']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Q', 'Q']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['W', 'H', 'W']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['M', 'Y', 'M']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['V', 'Z', 'V']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'P', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['Y', 'W', 'Y']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['T', 'E', 'E', 'T']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'C', 'R', 'C', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['O', 'W', 'H', 'W', 'O']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['U', 'X', 'X', 'U']
+INFO:alg.bf_pali:max pali found:
+INFO:alg.bf_pali:['E', 'G', 'E']

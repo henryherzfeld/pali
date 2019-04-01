@@ -1,6 +1,5 @@
 import random
-import logging
-logger = logging.getLogger(__name__)
+
 
 def seed(n, n_pali, n_words):
 
@@ -18,7 +17,15 @@ def seed(n, n_pali, n_words):
 
     return words
 
-
-def gen_rand(min, max):
-    for i in range(min, max):
-        yield random.randint(min, max)
+# def create_palindrome(n):
+#
+#     # if odd make it even
+#     if n % 2:
+#         n = n - 1
+#
+#
+#     for i in range(n):
+#         word
+#
+#
+# def insert_palindrome(n):
