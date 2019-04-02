@@ -5,6 +5,7 @@ import time
 import alg.bf_pali
 import logging
 import matplotlib.pyplot as plt
+import math
 
 logger = logging.getLogger(__name__)
 
@@ -44,6 +45,8 @@ def process(n, runs, n_words, np1, np2, interval):
     for run, n_pali_factor in enumerate(n_pali_factors):
 
         plot_array = np.zeros((len(algorithms), len(n_factors)), dtype='float')
+        a = math.ceil(numpy.sqrt(runs))
+        plt.subplot(a, a, 1+run, label="run "+str(run))
 
         for n_factor in n_factors:
 
@@ -63,4 +66,6 @@ def process(n, runs, n_words, np1, np2, interval):
             plt.plot(n_factors, np.ravel(plot_array[i]), label=alg)
 
         plt.legend()
-        plt.show()
+        plt.title("n_pali = " + str(n_pali))
+    plt.suptitle("n: " + str(n) + ", interval: " + str(interval) + ", n_words: " + str(n_words))
+    plt.show()
