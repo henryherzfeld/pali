@@ -5,9 +5,7 @@ import numpy as np
 def seed(n, n_pali, n_words):
 
     words = []
-    # 10 represents number of words to consider per run
-    # i.e. 10 words of size 10 in bf, dp, ex, ma
-    # 10 words of size 20 in bf, dp, ex, ma...
+
     for x in range(n_words):
         word = []
         for letter in range(n):
@@ -33,7 +31,6 @@ def insert_pali(word, n):
 
 def get_pali(n):
 
-    # if odd make it even
     if n % 2:
         n = n - 1
 
