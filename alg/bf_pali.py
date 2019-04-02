@@ -22,7 +22,7 @@ def pali(word):
     while i_start <= n:
         i_end = i_start + 1
         while i_end < n:
-            if is_pali(word, i_start, i_end, n):
+            if is_pali(word, i_start, i_end):
                 if i_end - i_start >= max_end - max_start:
                     max_start, max_end = i_start, i_end
             i_end = i_end + 1
@@ -35,7 +35,7 @@ def pali(word):
         return word[max_start:max_end+1]
     return 0
 
-def is_pali(word, i_start, i_end, n):
+def is_pali(word, i_start, i_end):
     i = i_end
 
     for letter in word[i_start:i_end]:

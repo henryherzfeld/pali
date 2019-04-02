@@ -17,7 +17,8 @@ algorithms = [
 ]
 
 def process_algorithms(palis):
-    # declaration
+    # creating two arrays with same dimensionality
+    # time contains list of times, result stores list of solution for each word
     time_array = np.zeros((len(algorithms), len(palis)), dtype=float)
     result_array = np.zeros((len(algorithms), len(palis)), dtype=object)
 
@@ -44,28 +45,38 @@ def process(n, runs, n_words, np1, np2, interval):
 
     for run, n_pali_factor in enumerate(n_pali_factors):
 
-        plot_array = np.zeros((len(algorithms), len(n_factors)), dtype='float')
+        # initialize subplot data object for each run
+        subplot_array = np.zeros((len(algorithms), len(n_factors)), dtype='float')
+
+        # building subplot matrix for superplot render at end of runtime
         a = math.ceil(numpy.sqrt(runs))
-        plt.subplot(a, a, 1+run, label="run "+str(run))
+        plt.subplot(a, a, 1+run, label="run "+ str(run))
 
         for n_factor in n_factors:
 
+            # finding size of artificial palindrome using n_pali_factor and current n
             n_pali = int(n_factor * n_pali_factor)
 
-            # getting input using seed method
+            # seed method creates n_words of size n_factor with artificial pali
+            # of size n_pali
             palis = seed(n_factor, n_pali, n_words)
 
+            # processing input for all algorithms
             time_array, pali_array = process_algorithms(palis)
 
-            # adding every algorithms performance to plot_array with average
+            # adding every algorithms performance to subplot_array with average
             # across each word ran
             for i, alg in enumerate(algorithms):
-                plot_array[i][(n_factor//interval)-1] = np.mean(time_array[i])
+                subplot_array[i][(n_factor//interval)-1] = np.mean(time_array[i])
 
+        # plot a line on current subplot for each algorithm
         for i, alg in enumerate(algorithms):
-            plt.plot(n_factors, np.ravel(plot_array[i]), label=alg)
+            plt.plot(n_factors, np.ravel(subplot_array[i]), label=alg)
 
+        # formatting subplot
         plt.legend()
         plt.title("n_pali = " + str(n_pali))
+
+    # formatting and rendering superplot
     plt.suptitle("n: " + str(n) + ", interval: " + str(interval) + ", n_words: " + str(n_words))
     plt.show()
