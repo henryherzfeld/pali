@@ -19,35 +19,28 @@ def pali(word):
     max_end = 0
     max_start = 0
 
-    while i < n:
+    while i <= n:
         i_start = i
         i_end = i
 
-        # check for even-sized palindrome of size 2
-        if i_start:
-            if is_pali(word, i_start-1, i_start) and max_end - max_start < 2:
-                max_end = i_start
-                max_start = i_start-1
+        # # check for even-sized palindrome of size 2
+        # if i_start:
+        #     if is_pali(word, i_start-1, i_start) and max_end - max_start < 2:
+        #         max_end = i_start
+        #         max_start = i_start-1
 
-        while i_start-1 > 0 and i_end+1 < n and is_pali(word, i_start, i_end):
+        while i_start-1 >= 0 and i_end+1 < n and is_pali(word, i_start-1, i_end+1):
+
             i_start = i_start - 1
             i_end = i_end + 1
             if max_end - max_start < i_end - i_start:
                 max_end = i_end
                 max_start = i_start
 
-
-
         i = i + 1
     print(max_start)
     print(max_end+1)
     print(word[max_start:max_end+1])
-
-
-    while is_pali(word, i_start-v, i_end+v) and 0 <= i_start-v >= n:
-        v = v + 1
-        max_end = i_end - v
-        max_start = i_start - v
 
 def is_pali(word, i_start, i_end):
     i = i_end

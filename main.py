@@ -6,7 +6,7 @@ logging.basicConfig(filename='pali.log', level=logging.DEBUG)
 n = 100 # upper bound on n value
 interval = 10 # interval to increment n
 runs = 9 # of runs to perform
-n_words = 20 # of words to consider for each simulation
+n_words = 10 # of words to consider for each simulation
 
 # N_PALI_FACTOR is used to determine the size of the artificial insterted palindrome
 lower_bound = .1

@@ -1,8 +1,7 @@
-import numpy
 from seeder import seed
 import numpy as np
 import time
-import alg.bf_pali
+import alg.bf_pali, alg.dp_pali
 import logging
 import matplotlib.pyplot as plt
 import math
@@ -15,6 +14,9 @@ algorithms = [
         # 'ex',
         # 'ma'
 ]
+
+def calculate_constant(n, time):
+    return 1000*(time / (n**3))
 
 def process_algorithms(palis):
     # creating two arrays with same dimensionality
@@ -35,7 +37,6 @@ def process_algorithms(palis):
 
     return time_array, result_array
 
-
 def process(n, runs, n_words, np1, np2, interval):
 
     # create the factors for each run
@@ -49,7 +50,7 @@ def process(n, runs, n_words, np1, np2, interval):
         subplot_array = np.zeros((len(algorithms), len(n_factors)), dtype='float')
 
         # building subplot matrix for superplot render at end of runtime
-        a = math.ceil(numpy.sqrt(runs))
+        a = math.ceil(np.sqrt(runs))
         plt.subplot(a, a, 1+run, label="run "+ str(run))
 
         for n_factor in n_factors:
@@ -75,8 +76,26 @@ def process(n, runs, n_words, np1, np2, interval):
 
         # formatting subplot
         plt.legend()
-        plt.title("n_pali = " + str(n_pali))
+        plt.title("n_pali: {0}".format(n_pali))
 
     # formatting and rendering superplot
-    plt.suptitle("n: " + str(n) + ", interval: " + str(interval) + ", n_words: " + str(n_words))
+    plt.suptitle("n: {0}, interval: {1}, n_words: {2}".format(n, interval, n_words))
     plt.show()
+
+    # to get constant array we are going to map a constant calculator using np or array
+    # methods where we run constant function on every element in those two arrays and put into
+    # third
+    vfunc = np.vectorize(calculate_constant)
+    constant_array = vfunc(n_factors, subplot_array[0])
+
+    l = np.arange(0, n, 1)
+    curve = l.__pow__(3)
+    print(subplot_array[0])
+    plt.plot(n_factors, 500000000*subplot_array[0])
+    plt.plot(curve)
+    plt.show()
+
+    print(np.std(subplot_array[0]))
+
+    # turn algorithms list into algorithms dictionary where key: value
+    # is alg_name: exponent
