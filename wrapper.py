@@ -1,22 +1,22 @@
 from seeder import seed
 import numpy as np
 import time
-import alg.bf_pali, alg.dp_pali
+import alg.bf_pali, alg.ex_pali
 import logging
 import matplotlib.pyplot as plt
 import math
 
 logger = logging.getLogger(__name__)
 
-algorithms = [
-        'bf',
-        # 'dp',
-        # 'ex',
-        # 'ma'
-]
+algorithms = {
+        'bf': 3,
+        # 'dp': 2,
+        'ex': 2,
+        # 'ma': 1
+}
 
-def calculate_constant(n, time):
-    return 1000*(time / (n**3))
+def calculate_constant(n, exp, time):
+    return (time / (n**exp))
 
 def process_algorithms(palis):
     # creating two arrays with same dimensionality
@@ -25,7 +25,7 @@ def process_algorithms(palis):
     result_array = np.zeros((len(algorithms), len(palis)), dtype=object)
 
     for pali_id, pali in enumerate(palis):
-        for alg_id, algorithm in enumerate(algorithms):
+        for alg_id, algorithm in enumerate(algorithms.keys()):
             a = "alg." + algorithm + "_pali.pali(" + str(pali) + ")"
             start = time.clock()
             result = eval(a)
@@ -67,11 +67,11 @@ def process(n, runs, n_words, np1, np2, interval):
 
             # adding every algorithms performance to subplot_array with average
             # across each word ran
-            for i, alg in enumerate(algorithms):
+            for i, alg in enumerate(algorithms.keys()):
                 subplot_array[i][(n_factor//interval)-1] = np.mean(time_array[i])
 
         # plot a line on current subplot for each algorithm
-        for i, alg in enumerate(algorithms):
+        for i, alg in enumerate(algorithms.keys()):
             plt.plot(n_factors, np.ravel(subplot_array[i]), label=alg)
 
         # formatting subplot
@@ -86,10 +86,14 @@ def process(n, runs, n_words, np1, np2, interval):
     # methods where we run constant function on every element in those two arrays and put into
     # third
     vfunc = np.vectorize(calculate_constant)
-    constant_array = vfunc(n_factors, subplot_array[0])
+
+    for alg_id, alg_exp in enumerate(algorithms.values()):
+        constant_array = vfunc(n_factors, alg_exp, subplot_array[alg_id])
+        print(max(constant_array))
 
     l = np.arange(0, n, 1)
     curve = l.__pow__(3)
+
     print(subplot_array[0])
     plt.plot(n_factors, 500000000*subplot_array[0])
     plt.plot(curve)

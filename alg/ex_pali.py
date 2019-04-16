@@ -14,41 +14,28 @@ def pali(word):
         return word
 
     i = 0
-    i_start = 0
-    i_end = 0
     max_end = 0
     max_start = 0
 
-    while i <= n:
-        i_start = i
-        i_end = i
+    for i in range(n):
+        # consider an even and odd palindrome
+        odd = expand_pali(word, i, i)
+        even = expand_pali(word, i, i+1)
 
-        # # check for even-sized palindrome of size 2
-        # if i_start:
-        #     if is_pali(word, i_start-1, i_start) and max_end - max_start < 2:
-        #         max_end = i_start
-        #         max_start = i_start-1
+        # choose max
+        max_len = max(odd, even)
 
-        while i_start-1 >= 0 and i_end+1 < n and is_pali(word, i_start-1, i_end+1):
+        # setting maximum start and end values for current loop iteration
+        if max_end - max_start < max_len:
+            max_end = i + (max_len // 2)
+            max_start = i - ((max_len - 1) // 2)
+    print(word[max_start:max_end])
+    return word[max_start:max_end+1]
 
-            i_start = i_start - 1
-            i_end = i_end + 1
-            if max_end - max_start < i_end - i_start:
-                max_end = i_end
-                max_start = i_start
+def expand_pali(word, start, end):
 
-        i = i + 1
-    print(max_start)
-    print(max_end+1)
-    print(word[max_start:max_end+1])
+    while start >= 0 and end < len(word) and word[start] == word[end]:
+        start = start - 1
+        end = end + 1
 
-def is_pali(word, i_start, i_end):
-    i = i_end
-
-    for letter in word[i_start:i_end]:
-        if letter != word[i]:
-            return 0
-        i = i - 1
-    return 1
-
-pali("AZXCCXZAKIJUTYRFEDSFVBGHYRGTERFD")
+    return end - start - 1
