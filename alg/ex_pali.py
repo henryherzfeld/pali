@@ -1,6 +1,7 @@
 import random
 import numpy
 import logging
+import math
 
 logger = logging.getLogger(__name__)
 
@@ -29,7 +30,7 @@ def pali(word):
         if max_end - max_start < max_len:
             max_end = i + (max_len // 2)
             max_start = i - ((max_len - 1) // 2)
-    print(word[max_start:max_end])
+    print(word[max_start:max_end+1])
     return word[max_start:max_end+1]
 
 def expand_pali(word, start, end):

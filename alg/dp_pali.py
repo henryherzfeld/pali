@@ -1,36 +1,38 @@
-def pali_helper(word, max_start, max_end, i_start, i_end):
-    n = len(word)
-
-    if n == 0:
-        return 0
-
-    if n == 1:
-        return 0
-
-    if i_start == n-2:
-        if max_end:
-            print(word[max_start:max_end+1])
-            return word[max_start:max_end]
-
-    if i_end >= n:
-        i_start = i_start + 1
-        i_end = i_start + 1
-
-    if is_pali(word, i_start, i_end):
-        if i_end - i_start >= max_end - max_start:
-            max_start, max_end = i_start, i_end
-
-    pali_helper(word, max_start, max_end, i_start, i_end+1)
+import numpy as np
 
 def pali(word):
-    pali_helper(word, 0, 0, 0, 1)
+    n = len(word)
+    lens = np.ones((n, n))
 
-def is_pali(word, i_start, i_end):
-    i = i_end
-    print(i_end)
+    # initialize solution arr with one and two char palis
+    for i in range(n):
 
-    for letter in word[i_start:i_end]:
-        if letter != word[i]:
-            return 0
-        i = i - 1
-    return 1
+        if i < n-1:
+            lens[i][i+1] = 2
+            lens[i-1][i] = 2
+
+
+    for i in range(n):
+        for j in range(n-1):
+
+                # diagonal movement
+                if word[i-1] == word[j+1]:
+                    lens[i-1, j+1] = lens[i, j] + 2
+
+                # right movement
+                if word[i] == word[j+1]:
+                    lens[i, j+1] = lens[i, j] + 1
+
+                # up movement
+                if word[j] == word[i-1]:
+                    lens[i-1, j] = lens[i, j+1] + 1
+
+    start, end = np.unravel_index(np.argmax(lens), lens.shape)
+
+    print(word[start:end+1])
+    print(lens)
+
+
+
+
+pali("SSDSSAT")
