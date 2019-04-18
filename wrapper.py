@@ -1,7 +1,7 @@
 from seeder import seed
 import numpy as np
 import time
-import alg.bf_pali, alg.ex_pali
+import alg.bf_pali, alg.ex_pali, alg.dp_pali
 import logging
 import matplotlib.pyplot as plt
 import math
@@ -10,9 +10,9 @@ logger = logging.getLogger(__name__)
 
 algorithms = {
         'bf': 3,
-        # 'dp': 2,
+        'dp': 2,
         'ex': 2,
-        # 'ma': 1
+        'ma': 1
 }
 
 def calculate_constant(n, exp, time):

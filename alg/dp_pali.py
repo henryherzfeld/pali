@@ -29,10 +29,15 @@ def pali(word):
 
     start, end = np.unravel_index(np.argmax(lens), lens.shape)
 
+    if start > end:
+        t = end
+        end = start
+        start = t
+
     print(word[start:end+1])
+
     print(lens)
+    return word[start:end+1]
 
 
-
-
-pali("SSDSSAT")
+# pali("bbananabb")
