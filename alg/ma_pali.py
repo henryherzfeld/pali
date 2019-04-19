@@ -1,74 +1,84 @@
+import logging
 
+logger = logging.getLogger(__name__)
 
+# define global sentinel characters
 sen_char = "@"
 start_sen = "!"
 end_sen = "#"
 
-def pali(S):
+def pali(word):
 
-    T = convert(S)
+    # convert word to sentinel word
+    sen_word = convert(word)
 
-    # Also track the expand length around all indices
-    P = [0] * len(T)
+    # store expand length for each index of sen_word
+    P = [0] * len(sen_word)
 
-    # Track center of largest palin yet
-    # and its right boundary
+    # center of largest palindrome thus far and its right boundary
     center = right = 0
 
-    # Track largest expansion length
-    # and it index
+    # largest expand length and that particular index
     max_len = index = 0
 
-    # Loop through word array to
-    # update expand length around each index
-    for i in range(1, len(T) - 1):
+    # loop sen_word to update expand length at each index
+    for i in range(1, len(sen_word) - 1):
 
-        # Check to see if new palin
-        # around i lies within a bigger one
-        # If so, copy expand length of its mirror
+        # assign mirror using relationship of current LPS center
         mirror = 2 * center - i
+
+        # check if new pali lies within the current LPS
+        # and assign its expand length if so
         if i < right:
             P[i] = min(right - i, P[mirror])
 
-        # Expand around new center
-        # Update expand length at i as needed
-        while T[i + P[i] + 1] == T[i - (P[i] + 1)]:
+        # expand on center of new pali and
+        # update expand length at index of new pali
+        while sen_word[i + P[i] + 1] == sen_word[i - (P[i] + 1)]:
             P[i] += 1
 
-        # If we breached previous right boundary
-        # Make i the new center of the longest palin
-        # and update right boundary
+        # if new pali greater than current LPS
+        # assign i to index of new pali and update right boundary
         if i + P[i] > right:
             right = i + P[i]
             center = i
 
-        # Update max_len
+        # update current LPS with new pali length
         if P[i] > max_len:
             max_len = P[i]
             index = i
 
-    t_arr = T[ index - max_len: index + max_len + 1 ]
-    word_arr = [ c for c in t_arr if c != sen_char and c != start_sen and c != end_sen ]
+    # acquire LPS characters from sentinel word array using
+    # relationship of LPS index and length
+    t_arr = sen_word[ index - max_len: index + max_len + 1 ]
+
+    # remove all sentinel characters
+    word_arr = [ c for c in t_arr \
+                 if c != sen_char \
+                 and c != start_sen \
+                 and c != end_sen \
+                 ]
+
+    # build LPS as string from word array
     word = "".join(word_arr)
 
-    print(word)
+    logger.info(word)
     return word
 
-def convert(S):
-    # Create a copy of array with sentinel chars in between and around
-    # Also include space for starting and ending nodes
-    T = [0] * (2 * (len(S)) + 3)
+def convert(word):
+    # create copy of array with space to add indices for sentinel characters
+    t = [0] * (2 * (len(word)) + 3)
 
-    # Fill odd indices with sentinel chars evens with real chars
-    for i in range(len(T)):
+    # add sentinel chars at odd indices, real chars at even indices
+    for i in range(len(t)):
         if i == 0:
-            T[i] = start_sen
-        elif i % 2 == 0 and i < len(T) - 1:
-            s_index = (i - 1) // 2
-            T[i] = S[s_index]
-        elif i % 2 == 1 and i < len(T) - 1:
-            T[i] = sen_char
+            t[i] = start_sen
+        elif i % 2 == 0 and i < len(t) - 1:
+            sen_index = (i - 1) // 2
+            t[i] = word[sen_index]
+        elif i % 2 == 1 and i < len(t) - 1:
+            t[i] = sen_char
         else:
-            T[i] = end_sen
+            t[i] = end_sen
 
-    return T
+    return t

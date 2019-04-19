@@ -1,5 +1,3 @@
-import random
-import numpy
 import logging
 
 logger = logging.getLogger(__name__)
@@ -28,12 +26,8 @@ def pali(word):
             i_end = i_end + 1
         i_start = i_start + 1
 
-
-    if max_end:
-        logger.info('max pali found:')
-        logger.info(word[max_start:max_end+1])
-        return word[max_start:max_end+1]
-    return 0
+    logger.info(word[max_start:max_end+1])
+    return word[max_start:max_end+1]
 
 def is_pali(word, i_start, i_end):
     i = i_end

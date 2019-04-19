@@ -1,7 +1,7 @@
 from seeder import seed
 import numpy as np
 import time
-import alg.bf_pali, alg.ex_pali, alg.dp_pali
+import alg.bf_pali, alg.ex_pali, alg.dp_pali, alg.ma_pali
 import logging
 import matplotlib.pyplot as plt
 import math
