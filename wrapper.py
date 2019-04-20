@@ -15,8 +15,13 @@ algorithms = {
         'ma': 1
 }
 
+SCALE = 1000000000
+
 def calculate_constant(n, exp, time):
     return (time / (n**exp))
+
+def outfile(a, b, c, d, file):
+    file.write("{0},{1},{2},{3}\n".format(a,b,c,d))
 
 def process_algorithms(palis):
     # creating two arrays with same dimensionality
@@ -85,21 +90,26 @@ def process(n, runs, n_words, np1, np2, interval):
     # to get constant array we are going to map a constant calculator using np or array
     # methods where we run constant function on every element in those two arrays and put into
     # third
-    vfunc = np.vectorize(calculate_constant)
+    vfunc1 = np.vectorize(calculate_constant)
+    vfunc2 = np.vectorize(outfile)
 
     for alg_id, alg_exp in enumerate(algorithms.values()):
-        constant_array = vfunc(n_factors, alg_exp, subplot_array[alg_id])
+        constant_array = vfunc1(n_factors, alg_exp, subplot_array[alg_id])
         print(max(constant_array))
 
-    l = np.arange(0, n, 1)
-    curve = l.__pow__(3)
 
-    print(subplot_array[0])
-    plt.plot(n_factors, 500000000*subplot_array[0])
-    plt.plot(curve)
-    plt.show()
+        l = np.arange(0, n, 1)
+        curve = l.__pow__(alg_exp)
 
-    print(np.std(subplot_array[0]))
+        plt.plot(n_factors, SCALE*subplot_array[alg_id], label=alg + " empirical")
+        plt.plot(curve, label=alg + " theoretical")
+        plt.title("scale = {0}".format(SCALE))
+        plt.legend()
+        plt.show()
 
-    # turn algorithms list into algorithms dictionary where key: value
-    # is alg_name: exponent
+
+        file = open("alg{0}.csv".format(alg_id), "w")
+        vfunc2(n_factors, subplot_array[alg_id], n_factors**alg_exp, constant_array, file)
+        #
+        # for i in enumerate(n_factors):
+        #     print("{0},{1},{2},{3}".format(n_factors[i], subplot_array[alg_id], (n_factors[i]**alg_exp), constant_array[i]))
